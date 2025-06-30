@@ -298,7 +298,7 @@ const FeedbackDialog = (props: {
             </button>
             <button
               class="font-bold py-2 px-6 rounded focus:outline-none focus:shadow-outline"
-              style={{ background: '#3b82f6', color: 'white' }}
+              style={{ background: '#9192ff', color: 'white' }}
               onClick={props.onSubmit}
             >
               Submit
